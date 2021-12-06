@@ -1,0 +1,1 @@
+{"name": "Holidays on Ice", "price": "\u00a351.07", "UPC": "0cb4856be3694a57", "tax": "\u00a30.00", "availabillity": "In stock (3 available)", "reviews": "0", "description": "A new holiday classic--six of the most profound Christmas stories by the author of the bestselling \"Naked\" and \"Barrel Fever\"--is now in a paperback edition perfect for stocking stuffing."}

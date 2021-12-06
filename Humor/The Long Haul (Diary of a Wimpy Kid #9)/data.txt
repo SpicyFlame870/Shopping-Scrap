@@ -1,0 +1,1 @@
+{"name": "The Long Haul (Diary of a Wimpy Kid #9)", "price": "\u00a344.07", "UPC": "f21effc079a2b38a", "tax": "\u00a30.00", "availabillity": "In stock (14 available)", "reviews": "0", "description": "Greg Heffley and his family hit the road in author-illustrator Jeff Kinney's latest installment of the phenomenally bestselling Diary of a Wimpy Kid series."}

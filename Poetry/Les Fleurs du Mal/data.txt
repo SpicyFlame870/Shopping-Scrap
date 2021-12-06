@@ -1,0 +1,1 @@
+{"name": "Les Fleurs du Mal", "price": "\u00a329.04", "UPC": "c44c5e1425475206", "tax": "\u00a30.00", "availabillity": "In stock (8 available)", "reviews": "0", "description": "Presents the first American translation of the complete text of Baudelaire's 1857 masterwork and includes the complete original French texts for easy comparison."}

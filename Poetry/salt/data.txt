@@ -1,0 +1,1 @@
+{"name": "salt.", "price": "\u00a346.78", "UPC": "86cbddb61ea78bb7", "tax": "\u00a30.00", "availabillity": "In stock (14 available)", "reviews": "0", "description": "Salt is a journey through warmth and sharpness. This collection of poetry explores the realities of multiple identities, language, diasporic life & pain, the self, community, healing, celebration, and love."}
